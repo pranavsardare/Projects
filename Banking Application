@@ -1,0 +1,35 @@
+This project is Banking Application, in which user can perform transactions, deposit money, withdraw, check balance. With C++ as its development language, the application is a console-based platform that allows users to effectively manage their account activities.
+
+
+Features:
+
+Transactions: Users can also make and manage transactions between various accounts, with every individual transaction being recorded for user review.
+
+Deposit: Users can deposit money in their accounts, updating the balance.
+
+Here’s how the application implements withdrawal: It will allow users to withdraw funds from their applications, making sure that the withdrawal is not greater than the balance available.
+
+Real-time Balance Inquiry: Clients may monitor their present account balance immediately.
+
+
+Key Functionalities:
+
+Account Management: The system manages the creation of accounts along with the secure procedures for logging in and authentication to ensure that only the users of those accounts can view their account details and act on them.
+
+Transaction History: All transactions, including deposits, withdrawals, and transfers are recorded for quick access to the user's financial history.
+
+Error Handling: Avoid problems like withdrawing too much money or invalid user input; the application performs error checks to avoid such issues.
+
+
+Technologies Used:
+
+Backend logic: The backend logic of the application was developed using C++ with the knowledge of Object Oriented Programming handling different bank operations.
+
+File Handling: Utilized for persistent storage of user data, transaction records, and account details between sessions.
+
+
+Outcome:
+
+A console-based Banking system that is simple, secure and efficient to perform the basic banking functionality.
+
+It is a basic framework for creating more complex banking solutions, complete with features like online banking, user authentication, and third-party service integrations.
